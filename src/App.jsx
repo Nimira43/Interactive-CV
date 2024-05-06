@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-      App
+      <h1 className="text-3xl font-bold underline">NimiraTech presents Interactive CV</h1>
     </div>
   )
 }
